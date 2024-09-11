@@ -1,7 +1,6 @@
---- 
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=512&amp;imh=270&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
----
-
+<section class="preview" style="width:'100%'; display:flex; jusctify-content:center;">
+<img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" />
+</section>
 <!--
 **goriori/goriori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
