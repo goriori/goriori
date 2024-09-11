@@ -1,8 +1,5 @@
-## Hi there 👋
-
 --- 
 ![alt text](https://steamuserimages-a.akamaihd.net/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=512&amp;imh=270&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
-
 ---
 
 <!--
